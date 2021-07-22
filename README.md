@@ -36,4 +36,4 @@ The second approach of feature extractor is built by using an automatic hyper-pa
 
 ## Results
 
-![dm_optuna_v1_1stripe](D:\Leibniz Uni Hannover\6_MasterArbeit\sourcecode\MasterArbeit\Result)
+![dm_optuna_v1_1stripe](https://github.com/ChenErdi/MasterArbeit/blob/main/IMG/dm_optuna_v1_3stripes_01.JPG)
