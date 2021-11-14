@@ -34,6 +34,10 @@ The first approach of feature extractor is to use ResNet-based fine-tuning, i.e.
 
 The second approach of feature extractor is built by using an automatic hyper-parameter optimization framework called optuna, which can dynamically construct the search spaces for the hyper-parameters. For a given search space of hyper-parameters, optuna will go through different trials to find the several optimal combination of hyperparameters. Based on the optimal combination of parameters found by optuna and then fine-tuned artificially.
 
-## Results
+## The Model Overview and Results
+![Architecture_Overview](https://github.com/ChenErdi/MasterArbeit/blob/main/IMG/Architecture_Overview.JPG)
+![Architecture_Overview02](https://github.com/ChenErdi/MasterArbeit/blob/main/IMG/Architecture_Overview02.png)
+
+---
 
 ![dm_optuna_v1_1stripe](https://github.com/ChenErdi/MasterArbeit/blob/main/IMG/dm_optuna_v1_3stripes_01.JPG)
